@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Ivory Tower and Harry Potter",
+    "imgUrl": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Lana A. Whited"
+    ],
+    "published": "University of Missouri Press - 2004"
+  },
+  {
+    "title": "Dear Bess",
+    "imgUrl": "http://books.google.com/books/content?id=6y0odeAgVDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Harry S. Truman"
+    ],
+    "published": "University of Missouri Press - 1998"
+  },
+  {
+    "title": "Smoothing Techniques",
+    "imgUrl": "http://books.google.com/books/content?id=2dzxO_zyRagC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Wolfgang Härdle"
+    ],
+    "published": "Springer Science & Business Media - 1991"
+  },
+  {
+    "title": "Reading Harry Potter",
+    "imgUrl": "http://books.google.com/books/content?id=-__ICQemqaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Giselle Liza Anatol"
+    ],
+    "published": "Greenwood Publishing Group - 2003"
+  },
+  {
+    "title": "The Fearless Harry Greb",
+    "imgUrl": "http://books.google.com/books/content?id=kUeDc_wYSnoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Bill Paxton"
+    ],
+    "published": "McFarland - 2009-01-12"
+  }
+]

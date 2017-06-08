@@ -1,0 +1,104 @@
+body{
+  background-image: url('images/content.jpg');
+  color: white;
+}
+
+p, 
+h1, 
+h2, 
+h3, 
+h4,
+label{
+  margin: 5px 0px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+  color: white;
+  font-size: 18px;
+}
+
+.highlight{
+  color: yellow;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+  color: #eaad00;
+}
+
+.main{
+  max-width:800px;
+}
+
+.glyphicon-x2{
+  font-size: 28px;
+    margin-right: 10px; 
+}
+
+.list-item-border{
+  border: 1px solid rgba(0, 0, 0, 0.6);
+	border-radius: 1px;
+	background-image: linear-gradient(#6d281f, #530e0c 60%,#6d281f);
+  padding: 10px; 
+}
+
+.favorite-background{
+  background-image: linear-gradient(#eaad00, #c1540d 60%,#8a4906);
+}
+
+.vertical-align-middle{
+  vertical-align: middle;
+}
+
+.cursor-pointer{
+   cursor: pointer;
+}
+
+.display-inline{
+  display: inline-block;
+  margin: 0.5em 0px;
+}
+
+.display-inline .form-group{
+  margin: 5px 0px 0px 0px;  
+}
+
+.display-inline .form-group > input{
+  width: auto;
+  display: inline-block;
+}
+
+.display-inline > li{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.nav-background{
+  border: 1px solid rgba(0, 0, 0, 0.6);
+	border-radius: 1px;
+	background-image: linear-gradient(#845016, #4d250b 60%,#4e3113);
+}
+
+.pagination > li > a{
+  background-color: #4d250b;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+	border-radius: 1px;
+  color: white;
+}
+
+.pagination > li > a:hover{
+  background-color: #4d250b;
+  color:white;
+  cursor: pointer;
+}
+
+.pagination > .active > a{
+  border-color:  #6d281f; 
+  background-color: #530e0c;
+
+}
+
+.pagination > .active > a:hover{
+  border-color:  #6d281f; 
+  background-color: #530e0c;
+
+}
