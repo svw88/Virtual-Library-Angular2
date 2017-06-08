@@ -1,29 +1,5 @@
 [
   {
-    "title": "The Ivory Tower and Harry Potter",
-    "imgUrl": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "authors": [
-      "Lana A. Whited"
-    ],
-    "published": "University of Missouri Press - 2004"
-  },
-  {
-    "title": "Dear Bess",
-    "imgUrl": "http://books.google.com/books/content?id=6y0odeAgVDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "authors": [
-      "Harry S. Truman"
-    ],
-    "published": "University of Missouri Press - 1998"
-  },
-  {
-    "title": "Smoothing Techniques",
-    "imgUrl": "http://books.google.com/books/content?id=2dzxO_zyRagC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "authors": [
-      "Wolfgang Härdle"
-    ],
-    "published": "Springer Science & Business Media - 1991"
-  },
-  {
     "title": "Reading Harry Potter",
     "imgUrl": "http://books.google.com/books/content?id=-__ICQemqaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "authors": [
@@ -38,5 +14,29 @@
       "Bill Paxton"
     ],
     "published": "McFarland - 2009-01-12"
+  },
+  {
+    "title": "A dieta que está no sangue",
+    "imgUrl": "http://books.google.com/books/content?id=SvxAlVIF_3kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Sérgio Teixeira"
+    ],
+    "published": "Gulf Professional Publishing - 2002"
+  },
+  {
+    "title": "A arte de tecer o presente",
+    "imgUrl": "http://books.google.com/books/content?id=BNoQcnjqcj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Cremilda Medina"
+    ],
+    "published": "Summus Editorial - 2003"
+  },
+  {
+    "title": "O caminho desde a estrutura",
+    "imgUrl": "http://books.google.com/books/content?id=9JbbyVuy_DcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "authors": [
+      "Thomas S. Kunh"
+    ],
+    "published": "UNESP - 2006"
   }
 ]
